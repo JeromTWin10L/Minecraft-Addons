@@ -14,7 +14,7 @@
                 "Pi 3"
             ],
             "tarballs": [ 
-                "http://raw.githubusercontent.com/JeromTWin10L/Windows-10-on-noobs-Rpi/master/Windows_10_Arm/BOOT.tar.xz",
+                "",
                 ""
             ]
         }
