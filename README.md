@@ -11,7 +11,8 @@ Sd card only supported 32G
 
 Android/Windows/Linux/MAC
 
-## Installation (Linux,MAC)
+## Installation
+### Installation (Linux,MAC)
 Open Terminal
 
  And Become root user
@@ -22,4 +23,20 @@ Open Terminal
 
  Run `cd Recovery && 7z x /path/to/PINN_Lite.7z`
 
+After extraction 
 
+Run `cd .. && umount Recovery`
+
+Now ,remove sd and put it in your Raspberry pi
+
+Boot PINN
+
+Select 'Windows 10 Desktop Core'
+
+Just click install
+
+After installation wait some time to make Windows 10 bootable
+
+And it will reboot and wait some time
+
+ Enjoy Windows 10 arm64 proffessional
