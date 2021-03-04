@@ -66,4 +66,13 @@ And it will reboot and wait some time
 
  Enjoy Windows 10 arm64 proffessional
 
-#
+ Note: if it says "Windows 10 installation cannot proceed"
+
+Follow this [github repository's](https://github.com/Comstepr/Win10-on-64-bit-Pi3?files=1) instructions from 35th step
+
+U don't want to copy files se said because i have already copied that files
+Se said
+#### Pinn Lite
+Download with this [link](https://mega.nz/file/As8VHICY#dMT3MPVg64BfLSJceNWiGi5ThSSbg0JobgG3iGva7O4)
+
+Note: don't download another pinn lite because ,other pinn doesn't show Windows 10
