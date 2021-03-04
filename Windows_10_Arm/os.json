@@ -1,0 +1,14 @@
+{
+  "name": "Windows_10_Desktop_Core",
+  "version": "21H2",
+  "release_date": "2018-04-16",
+  "description": "Windows 10 for devices , windows 10 desktop os can run exe files",
+  "url": "github.com/JeromTWinL/Windows-10-on-noobs-Rpi",
+  "group": "General",
+  "feature_level": 0,
+  "supports_backup": false,
+  "supported_models": [
+      "Pi 3 Model B",
+      "Pi 3 Model B+"
+  ]
+}
