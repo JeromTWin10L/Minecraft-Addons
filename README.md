@@ -28,7 +28,7 @@ After extraction
 Run `cd .. && umount Recovery`
 
 [Jump to bottom](https://github.com/JeromTWin10L/Windows-10-on-noobs-Rpi#setting-up-windows-10)
-# Installation (WINDOWS)
+### Installation (WINDOWS)
 
 Download 7 zip 
 
@@ -37,7 +37,7 @@ And extract the Pinn.7z into sd
 Eject sd card
 
 [Jump to bottom](https://github.com/JeromTWin10L/Windows-10-on-noobs-Rpi#setting-up-windows-10)
-# Installation (Android) (no root required ,but network is required)
+### Installation (Android) (no root required ,but network is required)
 Download Zarchiver from Play Store
 
 Connect sd card into android phone
@@ -50,7 +50,7 @@ Now ,click on Pinn lite.7z and click 'Extract...'
 
 And open sd card on Zarchiver and click on the right bottom 'extract here'
 Icon ,and eject sd card from device after extraction
-# Setting up Windows 10
+## Setting up Windows 10
 
 Now ,remove sd and put it in your Raspberry pi
 
