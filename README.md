@@ -56,7 +56,7 @@ Now ,remove sd and put it in your Raspberry pi
 
 Boot PINN
 
-Select 'Windows 10 Desktop Core'
+Select 'Windows 10 Arm (desktop)'
 
 Just click install
 
