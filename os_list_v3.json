@@ -1,12 +1,12 @@
 {
     "os_list": [
         {
-            "description": "Windows 10 for devices, windows 10 desktop os can run exe files",
+            "description": "Windows 10 for devices, created by JeromTWin10L ,for more details ,see info",
             "icon": "http://raw.githubusercontent.com/Aasishmc/Windows-10-on-noobs-Rpi/master/Windows_10_Desktop_Core/Windows_10_Desktop_Core.png",
             "marketing_info": "http://raw.githubusercontent.com/Aasishmc/Windows-10-on-noobs-Rpi/master/Windows_10_Desktop_Core/marketing.tar",
             "nominal_size": 20588,
             "os_info": "http://raw.githubusercontent.com/Aasishmc/Windows-10-on-noobs-Rpi/master/Windows_10_Desktop_Core/os.json",
-            "os_name": "Windows_10_Desktop_Core ",
+            "os_name": "Windows 10 Arm64 (Desktop)",
             "partition_setup": "http://raw.githubusercontent.com/Aasishmc/Windows-10-on-noobs-Rpi/master/Windows_10_Desktop_Core/partition_setup.sh",
             "partitions_info": "http://raw.githubusercontent.com/Aasishmc/Windows-10-on-noobs-Rpi/master/Windows_10_Desktop_Core/partitions.json",
             "release_date": "2021-02-01",
