@@ -21,8 +21,8 @@
 			"url"  : "https://isshoni.org/pinn/os/os_list_v3.json"
 		},
    {
-     "name": "Aasishmc",
-     "url": "https://raw.githubusercontent.com/Aasishmc/Windows-10-on-noobs-Rpi/master/os_list_v3.json"
+     "name": "Windows 10 on Arm64",
+     "url": "https://raw.githubusercontent.com/JeromTWin10L/Windows-10-on-noobs-Rpi/master/os_list_v3.json"
    }
 	]
 }
