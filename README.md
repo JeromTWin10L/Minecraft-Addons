@@ -11,4 +11,11 @@ Sd card only supported 32G
 
 Android/Windows/Linux/MAC
 
-##
+## Installation (Linux,MAC)
+Open Terminal
+
+ And Become root user
+
+ Run `apt update && apt install p7zip p7zip-full` to install depends
+
+ Run ``
