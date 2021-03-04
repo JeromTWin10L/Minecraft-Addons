@@ -18,4 +18,8 @@ Open Terminal
 
  Run `apt update && apt install p7zip p7zip-full` to install depends
 
- Run ``
+ Run `mkdir Recovery && mount /dev/<block device of sdcard> Recovery`
+
+ Run `cd Recovery && 7z x /path/to/PINN_Lite.7z`
+
+
