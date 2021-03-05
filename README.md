@@ -70,8 +70,7 @@ And it will reboot and wait some time
 
 Follow this [github repository's](https://github.com/Comstepr/Win10-on-64-bit-Pi3?files=1) instructions from 35th step
 
-U don't want to copy files se said because i have already copied that files
-Se said
+U don't want to copy files se said because i have already copied that files, the file 'finish.reg' has saved into 'C:\Windows\finish.reg'
 #### Pinn Lite
 Download with this [link](https://mega.nz/file/As8VHICY#dMT3MPVg64BfLSJceNWiGi5ThSSbg0JobgG3iGva7O4)
 
